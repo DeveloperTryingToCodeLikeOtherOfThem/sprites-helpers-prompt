@@ -8,6 +8,6 @@ namespace helpers {
     export declare function _getTextPromptSelectionStart(): number;
       //% blockId="get_text_prompt_selection_end" block="get text prompt selection end"
     export declare function _getTextPromptSelectionEnd(): number;
-     //% blockId="get_text_prompt_selection_end" block="is system keyboard supported"
+     //% blockId="is_system_leyboard_supported" block="is system keyboard supported"
     export declare function _isSystemKeyboardSupported(): boolean
 }
